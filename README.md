@@ -12,7 +12,7 @@ Sou apaixonada pela intersecção entre lógica e criação, buscando constantem
 ### 🛠 Minhas Ferramentas & Tecnologias
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,mysql,py,ts" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,mysql,py" />
   </a>
 </p>
 
