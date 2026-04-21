@@ -1,10 +1,3 @@
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║   sistemas não constroem soluções — pessoas que pensam   ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 # Maria Laura Druzeic
 
@@ -23,8 +16,6 @@ Back-end · Python · Dados · Soluções que fazem sentido
 Sou estudante de Engenharia de Software com uma trajetória que começou antes de escrever a primeira linha de código.
 
 Passei dois anos em ambiente industrial — onde dado incorreto tem custo imediato e processo sem disciplina simplesmente não funciona. Esse contexto moldou minha forma de pensar: antes de construir, entendo. Antes de otimizar, meço.
-
-Hoje aplico essa lógica ao desenvolvimento back-end, com foco em Python, APIs e sistemas que resolvem problemas reais.
 
 ---
 
@@ -54,7 +45,6 @@ Dado sem contexto é ruído. Processo sem propósito é desperdício.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cloud](https://img.shields.io/badge/Cloud_Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
@@ -63,7 +53,6 @@ Dado sem contexto é ruído. Processo sem propósito é desperdício.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maria-Druzeic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Druzeic&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 </div>
